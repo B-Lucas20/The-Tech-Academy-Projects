@@ -12,7 +12,7 @@ This repository is for my HTML and CSS The Tech Academy projects. This is a repo
 
 * [Cocktail Website (WiP)](#cocktail-website)
 
-* [To Do List](#To-Do-List)
+* [To Do List](#to-do-list)
 
 * [Personal Portfolio Website](#personal-portfolio-website)
 
